@@ -1,8 +1,8 @@
-public class tr {
+public class main {
     public void main(String[] args) {
-        public TR = new (String][ args]));
+        public main = new (String][ args]));
            int y = 0; y < do = 0) {
-public class tr2 {
+public class main {
    enum Level {
     valid,
     questionable,
